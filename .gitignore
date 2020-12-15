@@ -58,3 +58,7 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#Additions (that don't look important)
+*Install\ Bolt.meta
+*CrashedAssetImports.txt
+
